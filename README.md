@@ -5,7 +5,7 @@ FridaMe is intentionally vulnerable android application developed to demonstrate
 https://github.com/CognisysGroup/FridaMe/assets/25560539/d309c6b5-8be0-4808-8c47-d94797bc3bf9
 
 
-We have published a blog where we used this app as demo to bypass certain restrictions using Frida.
+We have published a blog where we used this app as a demo to bypass certain restrictions using Frida.
 https://labs.cognisys.group/posts/Writing-your-first-Frida-script-for-Android/
 
 ## License / Terms of Use
